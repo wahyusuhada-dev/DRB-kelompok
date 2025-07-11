@@ -1,0 +1,146 @@
+﻿SMART KOST : PASIF INCOME DENGAN POTENSI MAKSIMAL
+Disusun untuk memenuhi Tugas Mata Kuliah Dokumentasi Rencana Bisnis
+Yang diampu oleh :
+Ardhi Akmaludin Jadhira S.Kom., M.Kom.
+
+
+
+
+
+Kelompok 5 IF22B :
+1. Arina Sabilana		220102016
+2. Marshal Yanda Saputra	220102044
+3. Siti Arfi Mutoharoh	220102082
+4. Wahyu Suhada		220102086
+
+
+
+FAKULTAS SAINS DAN TEKNOLOGI
+PROGRAM STUDI TEKNIK INFORMATIKA
+UNIVERSITAS MUHAMMADIYAH BANDUNG
+2025
+RINGKASAN EKSEKUTIF (BUSINESS MODEL CANVAS-BMC)
+
+1. Costumer Segment
+*  Mahasiswa, pekerja kantoran, dan keluarga yang tinggal di kota besar.
+*  Pelanggan dengan gaya hidup sibuk yang membutuhkan layanan harian efisien, termasuk laundry dan kebugaran.
+*  Pelanggan premium yang menginginkan layanan ekstra dan eksklusif.
+
+2. Value Propositions
+* Layanan berlangganan yang mencakup laundry 4x/bulan dan gym 4x/bulan.
+* Paket premium: laundry 15x/bulan dan gym 15x/bulan.
+* Paket Ekslusif : laundry 30x/bulan dan gym 30x/bulan
+* Solusi satu pintu untuk kebutuhan kebersihan dan kesehatan.
+* Hemat waktu, fleksibel, dan dapat diandalkan.
+
+3. Channels
+* Aplikasi mobile & website.
+* Media sosial (Instagram, TikTok, dan Facebook).
+* Kerja sama dengan universitas atau perusahaan terdekat.
+
+4. Costumer Relationship
+* Layanan pelanggan 24/7.
+* Loyalty program dan referral rewards.
+* Notifikasi otomatis via aplikasi untuk jadwal laundry & gym.
+
+5. Revenue Stream
+* Paket standar (laundry 4x + gym 4x): Rp2.500.000/bulan.
+* Paket premium (laundry 15x + gym 15x): Rp3.000.000/bulan.
+* Paket eksekutif ( laundry 30x + gym 30x): Rp 3.500.000/bulan
+* Add-on: antar-jemput laundry, kelas gym khusus, dan layanan makanan diet sehat.
+
+6. Key Resources
+* Aplikasi mobile yang responsif.
+* Mitra Laundry dan Gym profesional.
+* Tim operasional dan customer service.
+* Kendaraan untuk layanan antar-jemput.
+
+7. Key Activities
+* Pengelolaan jadwal dan pengiriman laundry.
+* Integrasi akses gym dengan mitra.
+* Pengembangan aplikasi dan sistem pembayaran.
+* Kampanye pemasaran digital.
+
+
+
+8. Key Partnership
+* Mitra laundry lokal dan gym.
+* Platform pembayaran digital.
+* Penyedia teknologi dan logistik.
+* Influencer dan komunitas mahasiswa.
+
+9. Cost Structure
+* Gaji karyawan dan operasional.
+* Biaya kemitraan laundry dan gym.
+* Pengembangan dan pemeliharaan aplikasi.
+* Biaya pemasaran dan logistik.
+
+DESKRIPSI BISNIS (GOLDEN CIRCLE)
+
+1. Why
+Kami percaya bahwa setiap orang berhak menjalani hidup produktif tanpa terbebani urusan harian yang menyita waktu dan mendapatkan tempat istirahat yang nyaman untuk kembali beraktifitas keesokan hari.
+
+2. How
+Dengan menyediakan paket layanan bulanan yang mengintegrasikan laundry dan gym, kami memberi solusi efisien dan praktis.
+
+3. What
+Layanan berlangganan laundry dan gym tergabung dengan harga kosan, dengan opsi standar, premium dan ekslusif sesuai kebutuhan pelanggan.
+
+ANALISIS PASAR
+
+1. SWOT Analysis
+a. Strengths:
+* Layanan terpadu unik (laundry + gym).
+* Akses mudah via aplikasi.
+* Skema paket fleksibel (standar, premium, ekslusif).
+b. Weakness:
+* Ketergantungan pada mitra eksternal sebelum pembangunan gym dan laundry sendiri.
+* Butuh edukasi pasar untuk mengenalkan konsep baru.
+c. Opportunities:
+* Tren gaya hidup sehat dan praktis.
+* Pertumbuhan startup layanan harian di perkotaan.
+d. Threats:
+* Kompetitor satuan (laundry only atau gym only).
+* Keterbatasan mitra lokal di beberapa wilayah.
+* Keterbatasan lahan.
+
+2. PESTEL Analysis
+* Political: Izin usaha dan standar kemitraan harus terpenuhi.
+* Economic: Paket fleksibel menyesuaikan daya beli.
+* Social: Kebutuhan efisiensi dan kebugaran makin tinggi.
+* Technological: Pemanfaatan aplikasi untuk manajemen layanan.
+* Environmental: Mitra laundry ramah lingkungan jadi nilai jual.
+* Legal: Kepatuhan pada regulasi UMKM dan kemitraan digital.
+
+3. Porter's Five Forces
+* Threat of New Entrants: Tinggi, namun layanan terintegrasi jadi pembeda.
+* Bargaining Power of Suppliers: Sedang, mitra laundry/gym bisa diganti.
+* Bargaining Power of Buyers: Tinggi, pelanggan bisa memilih layanan lain.
+* Threat of Substitutes: Sedang, kompetitor satuan tersedia.
+* Industry Rivalry: Tinggi, banyak startup di sektor layanan.
+
+STRUKTUR ORGANISASI
+
+* Direktur Utama			: Wahyu Suhada
+* Manajer Operasional		: Marshal Yanda Saputra
+* Manajer TI & IT Support		: Siti Arfi Mutoharoh
+* Manajer Pemasaran & Keuangan	: Arina Sabilana
+
+
+
+Berikut tanggungjawab masing-masing posisi:
+
+1. Direktur Utama
+* Mengawasi keseluruhan strategi dan pengambilan keputusan.
+
+2. Manager Operasional
+* Koordinasi mitra laundry dan gym.
+* Logistik dan manajemen layanan pelanggan.
+
+3. Manager TI & IT support
+* Pengembangan dan pemeliharaan aplikasi.
+* Sistem notifikasi dan manajemen pengguna.
+
+4. Manager Pemasaran & Keuangan
+* Branding, kampanye digital, dan kerja sama promosi.
+* Manajemen arus kas, gaji, dan pengelolaan SDM.
