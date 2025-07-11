@@ -1,0 +1,153 @@
+Model atau Metode
+dalam Rencana Bisnis
+Ardhi Akmaludin J
+
+01
+
+Product Life Cycle (PLC)
+
+02
+
+Strategi Pemasaran:
+Marketing Mix 7P & AIDA Model
+
+03
+
+Rencana Keuangan: Breakeven Point (BEP), Cash Flow
+Projection, Income Statement
+
+04
+
+Risiko dan Strategi Mitigasi:
+Risk Matrix Analysis
+
+Table of Contents
+
+Produk atau Layanan:
+Product Life Cycle (PLC)
+Apa itu?
+Product Life Cycle (PLC) adalah konsep yang menjelaskan tahapan perjalanan sebuah produk mulai dari diluncurkan
+hingga akhirnya keluar dari pasar.
+
+•
+•
+•
+•
+
+Tahapan PLC:
+Introduction (Perkenalan)
+Growth (Pertumbuhan)
+Maturity (Kematangan)
+Decline (Penurunan)
+
+Fungsinya:
+Agar perusahaan tahu kapan waktu yang tepat melakukan inovasi, promosi tambahan, atau menghentikan produk.
+Contoh Kasus:
+Sebuah perusahaan minuman kesehatan meluncurkan produk baru. Saat di tahap growth, perusahaan
+meningkatkan distribusi dan promo ke media sosial. Ketika di tahap maturity, produk mulai didiskon atau dibuat
+varian baru agar tidak cepat turun.
+
+Strategi Pemasaran:
+Marketing Mix 7P & AIDA Model
+Apa itu?
+Marketing Mix 7P: Strategi pemasaran yang mencakup:
+1.
+Product (Produk)
+2. Price (Harga)
+3. Place (Distribusi)
+4. Promotion (Promosi)
+5. People (Orang/Pelayanan)
+6. Process (Proses pelayanan)
+7. Physical Evidence (Bukti fisik seperti kemasan, logo, dsb)
+AIDA Model: Strategi komunikasi pemasaran berbasis alur psikologi
+konsumen:
+1.
+Attention (Menarik perhatian)
+2. Interest (Membangun ketertarikan)
+3. Desire (Membuat keinginan)
+4. Action (Mendorong pembelian)
+
+Fungsinya:
+Mengatur cara produk ditawarkan ke pasar dan bagaimana
+komunikasi promosi dijalankan.
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+
+Contoh Kasus Sebuah coffee shop:
+Product: Kopi specialty
+Price: Rp30.000
+Place: Dekat kampus
+Promotion: Diskon soft opening
+People: Barista ramah
+Process: Pemesanan via aplikasi
+Physical Evidence: Gelas bermerek
+
+Iklannya memakai AIDA:
+1.
+Attention: “Ngopi enak, harga mahasiswa!”
+2. Interest: “Dibuat dari biji kopi pilihan”
+3. Desire: “Cobain sensasi kopi asli Nusantara”
+4. Action: “Datang ke CoffeeLab, gratis topping es krim!”
+
+Rencana Keuangan: Break-even Point (BEP),
+Cash Flow Projection, Income Statement
+•
+•
+•
+
+Apa itu?
+Break-even Point (BEP):Titik impas, saat total pendapatan sama dengan total biaya.
+Cash Flow Projection:Perkiraan arus kas masuk dan keluar dalam periode tertentu.
+Income Statement (Laporan Laba Rugi): Laporan untung/rugi perusahaan dalam periode tertentu.
+
+Fungsinya:
+Menentukan target penjualan, memastikan usaha tidak rugi, dan bisa memantau keuangan usaha.
+Contoh Kasus Coffee shop:
+Modal: Rp20 juta
+Harga kopi: Rp25.000
+Biaya per gelas: Rp10.000
+BEP = Rp20 juta ÷ (Rp25.000–Rp10.000) = 1.333 gelas
+Cash Flow:
+Bulan 1: Masuk Rp10 juta, Keluar Rp7 juta, Saldo: Rp3 juta
+Income Statement: Pendapatan: Rp30 juta, Beban: Rp20 juta, Laba: Rp10 juta
+
+Risiko dan Strategi Mitigasi:
+Risk Matrix Analysis
+Apa itu?
+Alat untuk memetakan risiko berdasarkan tingkat kemungkinan terjadi dan besarnya dampak.
+Fungsinya:
+Menentukan mana risiko yang perlu ditangani lebih dulu.
+
+•
+•
+•
+•
+
+Contoh Kasus Di coffee shop:
+Risiko: Biji kopi sulit didapat
+Kemungkinan: Sedang
+Dampak: Tinggi
+Strategi Mitigasi: Menjalin kerjasama dengan 3 supplier sekaligus.
+Bentuk Risk Matrix:
+
+Risiko
+Biji kopi sulit didapat
+Mesin rusak Rendah
+
+Kemungkinan Dampak
+Sedang
+Tinggi
+Sedang
+Sedang
+
+Prioritas
+Tinggi
+
+Terima Kasih
+
+

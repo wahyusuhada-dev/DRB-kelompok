@@ -1,0 +1,151 @@
+﻿([Nama Branding]: Judul Ide Bisnis)
+(Mata Kuliah)
+
+
+Logo UM Bandung
+
+
+
+
+Kelompok ...
+
+Nama Lengkap	NIM
+.....			....
+
+
+
+Kelas.../Teknik Informatika
+
+
+
+
+
+FAKULTAS ...
+PROGRAM STUDI ...
+UNIVERSITAS MUHAMMADIYAH BANDUNG
+TAHUN ...
+DAFTAR ISI
+
+1.	Ringkasan Eksekutif	3
+1.1	Nama Bisnis dan Jenis Bidang Usaha	3
+1.2	Tujuan Bisnis	3
+1.3	Gambaran Produk & Layanan	3
+2.	Deskripsi Bisnis	4
+2.1	Visi dan Misi	4
+2.2	Nila- Nilai Inti	4
+2.3	Struktur Hukum Bisnis	4
+2.4	Alamat Bisnis	4
+3.	Analisis Pasar	5
+3.1	Profil Target Pelanggan	5
+3.2	Tren Industri dan Peluang Pertumbuhan	5
+3.3	Analisis Pesaing Utama	5
+3.4	Keunggulan Kompetitif Bisnis Dibangkan Pesaing	5
+4.	Struktur Organisasi	6
+4.1	Struktur Kepimilikan dan Manajemen	6
+4.2	Bagan Struktur Organisasi	6
+4.3	Key Performance Indicator	6
+5.	Produk atau Layanan	7
+5.1	Deskripsi Produk/Layanan	7
+5.2	Keunikan dan Nilai Tambah	7
+5.3	Cara Penyediaan Layanan	7
+5.4	Rencana Pengembangan Produk	7
+6.	Strategi Pemasaran	8
+6.1	Strategi Harga	8
+6.2	Saluran Distribusi	8
+6.3	Strategi Promosi dan Branding	8
+6.4	Kemitraan atau Kerja Sama Yang Direncanakan	8
+7.	Rencana Keuangan.	9
+7.1	Perkiraan Modal Awal	9
+7.2	Estimasi Biaya Operasional	9
+7.3	Perkiraan Pendapatan	9
+7.4	Break Event Point	9
+8.	Risiko dan Strategi Mitigasi	10
+8.1	Jenis Risiko dan Dampaknya	10
+8.2	Strategi Mitigasi	10
+9.	Lampiran	11
+9.1	......	11
+9.2	Kontribusi Masing-Masing Anggota, Misal	11
+
+
+1. Ringkasan Eksekutif
+Jelaskan secara detil isi Business Model Canvas (BMC) dalam bentuk narasi minimal 1 halaman, total maksimal 3 halaman. Untuk tambahan lainnya dan kesimpulan silahkan isi pada sub bab di bawah berikut.
+1.1 Nama Bisnis dan Jenis Bidang Usaha 
+....
+1.2 Tujuan Bisnis
+....
+1.3 Gambaran Produk & Layanan
+....
+1. 
+2. Deskripsi Bisnis
+Jelasakan secara detil Golden Circlenya. Untuk tambahan lainnya dan kesimpulan silahkan isi pada sub bab di bawah berikut.
+2.1 Visi dan Misi 
+2.2 Nila- Nilai Inti
+2.3 Struktur Hukum Bisnis
+2.4 Alamat Bisnis
+
+3. Analisis Pasar
+Silahkan isi hasil analisis pasar bisa dari permasalahan besar yang diangkat dengan tujuan ketika ada ide bisnis ini dapat mengatasi masalah tersebut. Untuk tambahan lainnya dan kesimpulan silahkan isi pada sub bab di bawah berikut.
+3.1 Profil Target Pelanggan
+3.2 Tren Industri dan Peluang Pertumbuhan
+   Jelaskan secara detil isi dari Analisis PESTEL
+3.3 Analisis Pesaing Utama
+Jelaskan secara detil isi dari Porter's Five Forces
+3.4 Keunggulan Kompetitif Bisnis Dibangkan Pesaing
+ Jelaskan secara detil isi dari Analisis SWOT
+
+		
+4. Struktur Organisasi 
+4.1 Struktur Kepimilikan dan Manajemen
+4.2 Bagan Struktur Organisasi
+Bagan SOTK ...
+Penjelasan Bagan SOTK:
+Atasan Langsung:- (Abaikan jika atasan langsung)Bawahan Langsung:Fungsi:Tugas Pokok:Tugas Khusus:Indikator Kinerja:Wewenang:Spesifikasi Jabatan:
+4.3 Key Performance Indicator
+Penilaian Non Manajerial: Jelaskan penilaian kinerja berdasarkan (1) Non-Manajerial, seperti personal excellence, interpersonal capital, dan visionary & communicative. (2) Kinerja Individu (prestasi), seperti pencapaian dan taget. Silahkan diperbolehkan membuat asumsi bobot beserta penilaiannya
+
+	
+5. Produk atau Layanan 
+Jelaskan isi detilnya dari Produk Life Cycle (PLC). Untuk tambahan lainnya dan kesimpulan silahkan isi pada sub bab di bawah berikut.
+5.1 Deskripsi Produk/Layanan
+5.2 Keunikan dan Nilai Tambah
+5.3 Cara Penyediaan Layanan
+5.4 Rencana Pengembangan Produk
+
+6. Strategi Pemasaran
+Jelaskan isi detail dari Marketing Mix 7P & AIDA Model. Untuk tambahan lainnya dan kesimpulan silahkan isi pada sub bab di bawah berikut.
+6.1 Strategi Harga
+6.2 Saluran Distribusi
+6.3 Strategi Promosi dan Branding
+6.4 Kemitraan atau Kerja Sama Yang Direncanakan
+7. Rencana Keuangan.
+Jelaskan isi detil rencana keuangan. Untuk tambahan lainnya dan kesimpulan silahkan isi pada sub bab di bawah berikut.
+7.1 Perkiraan Modal Awal
+7.2 Estimasi Biaya Operasional
+7.3 Perkiraan Pendapatan
+7.4 Break Event Point 
+
+8. Risiko dan Strategi Mitigasi
+Jelaskan isi detil dari Risk Matrix Analysis. Untuk tambahan lainnya dan kesimpulan silahkan isi pada sub bab di bawah berikut.
+8.1 Jenis Risiko dan Dampaknya
+8.2 Strategi Mitigasi
+
+9. Lampiran
+9.1 ......
+9.2 Kontribusi Masing-Masing Anggota, Misal
+A - Mengerjakan bagian strategi pemasaran
+B - Mengerjakan Rencana Keuangan.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
